@@ -4,7 +4,7 @@
 Bibliography
 ------------
 
-- [[[dip]]] Mark Pilgrim, 'Dive Into Python': http://www.diveintopython.net/ 
+- [[[dip]]] Mark Pilgrim, 'Dive Into Python': https://diveintopython3.problemsolving.io/ 
 - [[[lpthw]]] Zed A. Shaw, 'Learn Python the Hard Way': http://learnpythonthehardway.org/ 
 - [[[iwp]]] Al Sweigart, 'Invent Your Own Computer Games with Python': http://inventwithpython.com
 - [[[tddbe]]] Kent Beck, 'Test Driven Development: By Example', Addison-Wesley
